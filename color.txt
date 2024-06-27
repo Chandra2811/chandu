@@ -3,4 +3,7 @@ blue
 orange
 brown
 green
+yellow
+white 
+black
 
